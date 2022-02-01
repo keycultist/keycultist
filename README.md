@@ -8,6 +8,7 @@
 - ⚡ Fun fact **I like keyboards**
 
 <h3 align="left">Connect with me:</h3>
+- Discord : Pleat#1154
 <p align="left">
 </p>
 
