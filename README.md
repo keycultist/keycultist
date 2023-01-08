@@ -13,10 +13,9 @@
 <p align="left">
 </p>
 
-<h3 align="left">Check out some of my previous work!</h3>
-[Old projects on Roblox.](https://www.roblox.com/users/60799439/profile)
-<p align="left>
-</p>
+<h3 align="left">Check out my previous work!</h3>
+
+[Roblox Game Design and Coding Projects](https://www.roblox.com/users/60799439/profile)
 
 
 <h3 align="left">Languages and Tools:</h3>
