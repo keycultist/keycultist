@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Check out some of my previous work!</h3>
-- [https://www.roblox.com/users/60799439/profile](Roblox profile that contains some of the games I worked on when I was younger.)
+- [Roblox profile that contains some of the games I worked on when I was younger.](https://www.roblox.com/users/60799439/profile)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </p>
