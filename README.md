@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact I **like** keyboards
 - ⚙ Currently pursuing a **Mechanical Technology** course 💀
+- 💕 Finally using GitHub again.
+
 
 <h3 align="left">Connect with me:</h3>
 - Discord : pleat#1154
