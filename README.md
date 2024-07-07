@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keycultist" alt="keycultist" /></a> </p>
 
 - ⚡ Fun fact I **like** keyboards
-- ⚙ Currently in a **Mechanical Technology** course 💀
+- ⚙ Currently pursuing a **Mechanical Technology** course 💀
 
 <h3 align="left">Connect with me:</h3>
 - Discord : pleat#1154
