@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact I **like** keyboards
 - ⚙ Currently pursuing a **Mechanical Technology** course 💀
-- 💕 Finally using GitHub again.
+- 💕 Finally using GitHub again, releasing periodic open source stuff I make.
 
 
 <h3 align="left">Connect with me:</h3>
