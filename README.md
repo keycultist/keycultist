@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keycultist" alt="keycultist" /></a> </p>
 
-- ⚡ Fun fact I **like** keyboards
-- ⚙ Currently pursuing a **Mechanical Technology** course 💀
+- ⚡ Fun fact: I spend too much time at home.
+- ⚙ Currently pursuing a **Game Development** Diploma
 - 💕 Finally using GitHub again, releasing periodic open source stuff I make.
 
 
 <h3 align="left">Connect with me:</h3>
-- Discord : pleat#1154
+- Discord : pleat
 <p align="left">
 </p>
 
