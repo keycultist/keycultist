@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm keycultist</h1>
-<h3 align="center">a intermediate Lua + Python programmer from Singapore</h3>
+<h1 align="center">Hi 👋, I'm keycultist :3</h1>
+<h3 align="center">a programmer from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keycultist&label=Profile%20views&color=0e75b6&style=flat" alt="keycultist" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keycultist" alt="keycultist" /></a> </p>
 
-- ⚡ Fun fact: I spend too much time at home.
-- ⚙ Currently pursuing a **Game Development** Diploma
+- ⚡ Fun fact: I have chronic pains.
+- ⚙ Currently pursuing **Game Development** (ihatemylife)
 - 💕 Finally using GitHub again, releasing periodic open source stuff I make.
 
 
