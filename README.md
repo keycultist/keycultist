@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm keycultist :3</h1>
-<h3 align="center">a programmer from Singapore</h3>
+<h3 align="center">a Programmer & Animator from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keycultist&label=Profile%20views&color=0e75b6&style=flat" alt="keycultist" /> </p>
 
