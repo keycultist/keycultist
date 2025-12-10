@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keycultist" alt="keycultist" /></a> </p>
 
-- ⚡ Fun fact: I have chronic pains.
+- ⚡ Fun fact: I was hit by a car in 2024 and my leg has never been the same
 - ⚙ Currently pursuing **Game Development** (ihatemylife)
 - 💕 Finally using GitHub again, releasing periodic open source stuff I make.
 
